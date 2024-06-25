@@ -1,0 +1,38 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>font/Inter-Medium.ttf</file>
+        <file>font/Inter-Regular.ttf</file>
+        <file>font/Montserrat-Regular.ttf</file>
+        <file>font/Montserrat-Regular1.ttf</file>
+        <file>font/Saira-Light.ttf</file>
+        <file>font/Saira-Medium.ttf</file>
+        <file>font/SairaSemiCondensed-ExtraLight.ttf</file>
+        <file>font/SairaSemiCondensed-Light.ttf</file>
+        <file>font/SairaSemiCondensed-Medium.ttf</file>
+        <file>font/SairaSemiCondensed-Thin.ttf</file>
+        <file>font/SF-Pro-Rounded-Medium.ttf</file>
+        <file>font/SF-Pro-Rounded-Semibold.ttf</file>
+        <file>main.cpp</file>
+        <file>font/ubuntu.regular.ttf</file>
+        <file>font/Gugi-Regular.ttf</file>
+        <file>assets/Background.png</file>
+        <file>assets/bg.png</file>
+        <file>assets/hum_card.png</file>
+        <file>assets/rain_card.png</file>
+        <file>assets/uv_card.png</file>
+        <file>assets/wdir_card.png</file>
+        <file>assets/wspeed_card.png</file>
+        <file>assets/chart_card_demo.png</file>
+        <file>assets/temp_card.png</file>
+        <file>assets/map_demo.png</file>
+        <file>assets/windir.png</file>
+        <file>assets/temp_card.svg</file>
+        <file>assets/background_black.png</file>
+        <file>assets/map_position.svg</file>
+        <file>controllers/weather.cpp</file>
+        <file>controllers/weather.h</file>
+        <file>pages/Dashboard.qml</file>
+        <file>assets/bg_video.mp4</file>
+    </qresource>
+</RCC>
